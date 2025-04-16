@@ -154,4 +154,4 @@ if __name__ == "__main__":
             # JSON'ı düzgün formatlı ve Türkçe karakterleri koruyarak yazdır
             print(json.dumps(parsed_json, indent=2, ensure_ascii=False))
         else:
-            print("\nFatura verisi yapılandırılamadı.")
+            print("\nFatura verisii yapılandırılamadı.")
